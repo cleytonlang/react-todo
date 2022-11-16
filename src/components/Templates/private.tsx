@@ -1,6 +1,6 @@
 import { ReactElement } from "react";
 import { Navbar, Button, Text, Container } from "@nextui-org/react";
-import logo from "../images/logo.png";
+import logo from "../../images/logo.png";
 import { Logo } from "./style";
 
 type TemplateProps = {

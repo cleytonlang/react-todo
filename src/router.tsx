@@ -1,7 +1,7 @@
 import { ReactElement } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import PublicTemplate from "./templates/public";
-import PrivateTemplate from "./templates/private";
+import PublicTemplate from "./components/Templates/public";
+import PrivateTemplate from "./components/Templates/private";
 import Home from "./modules/Home";
 import Task from "./modules/Task";
 import Error from "./components/Error";
